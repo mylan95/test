@@ -1,2 +1,4 @@
-# test
-test...
+## Installation
+```bash
+npm huychinh-gas-convert
+```

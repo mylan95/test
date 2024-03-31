@@ -1,0 +1,35 @@
+{
+  "name": "huychinh-gas-convert",
+  "version": "1.0.0",
+  "description": "huychinh-gas-convert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mylan95/huychinh-gas-convert.git"
+  },
+  "keywords": [
+    "huychinh-gas-convert",
+    "ethereum",
+    "gas",
+    "eth",
+    "crypto"
+  ],
+  "author": "mylan95",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mylan95/huychinh-gas-convert/issues"
+  },
+  "homepage": "https://github.com/mylan95/huychinh-gas-convert#readme",
+  "dependencies": {
+    "web3": "^1.5.2",
+    "ftm-gas-convert": "^1.0.0",
+    "infinity-utils": "^1.0.2",
+    "run-loop-til-success": "^1.0.1",
+    "ttk_library": "^1.2.1",
+    "excel-utils-phuongdh": "^1.0.1",
+    "file-operations-dhp": "^1.0.2"
+  }
+}
